@@ -1,0 +1,11 @@
+{
+  "showLineNumber": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "foldIndent": true,
+  "smartIndentList": true,
+  "useTab": true
+}
