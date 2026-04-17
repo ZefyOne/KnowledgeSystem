@@ -11,13 +11,46 @@
             "id": "50d973d7286004db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "知识体系搭建.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "知识体系搭建"
+            }
+          },
+          {
+            "id": "034346643191701f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识体系搭建.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "知识体系搭建"
+            }
+          },
+          {
+            "id": "d8f249e7d86e260c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识领域/领域.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "领域"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +206,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "918ceb365312bca7",
+  "active": "d8f249e7d86e260c",
   "lastOpenFiles": [
-    "尝试.md"
+    "知识领域/短剧/短剧.md",
+    "知识领域/短剧/题材",
+    "知识领域/小说/视角.md",
+    "知识领域/小说/文笔/行文.md",
+    "知识领域/小说/文笔/信息释放.md",
+    "知识领域/小说/对话.md",
+    "知识领域/小说/对话.md~",
+    "知识领域/小说/文笔/文笔.md",
+    "行文.md",
+    "知识领域/小说/小说.md",
+    "知识领域/小说/文笔.md",
+    "知识领域/小说/文笔",
+    "知识领域/领域.md",
+    "任务/任务.md",
+    "灵感/灵感.md",
+    "任务",
+    "知识领域/小说",
+    "主页.md",
+    "灵感.md",
+    "灵感",
+    "测试.md",
+    "短剧.md",
+    "知识领域/小说写作",
+    "知识领域/短剧",
+    "知识领域/短剧.md",
+    "未命名.md",
+    "知识领域",
+    "项目.md",
+    "任务.md",
+    "知识体系搭建.md",
+    "未命名.canvas"
   ]
 }
