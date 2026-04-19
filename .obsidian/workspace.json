@@ -183,8 +183,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -197,17 +197,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d8f249e7d86e260c",
   "lastOpenFiles": [
+    "主页.md~",
+    "知识领域/领域.md~",
+    "思考/思考.md",
+    "思考",
+    "思考过程/思考.md",
+    "深层记忆/领域/小说",
+    "深层记忆/领域/短剧",
+    "深层记忆/领域",
+    "深层记忆",
+    "思考过程",
+    "灵感与任务",
     "知识领域/短剧/短剧.md",
     "知识领域/短剧/题材",
     "知识领域/小说/视角.md",
@@ -219,22 +231,15 @@
     "行文.md",
     "知识领域/小说/小说.md",
     "知识领域/小说/文笔.md",
-    "知识领域/小说/文笔",
     "知识领域/领域.md",
     "任务/任务.md",
     "灵感/灵感.md",
-    "任务",
-    "知识领域/小说",
     "主页.md",
     "灵感.md",
-    "灵感",
     "测试.md",
     "短剧.md",
-    "知识领域/小说写作",
-    "知识领域/短剧",
     "知识领域/短剧.md",
     "未命名.md",
-    "知识领域",
     "项目.md",
     "任务.md",
     "知识体系搭建.md",
