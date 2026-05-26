@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779784573831-t5jr9yebn",
+  "providerId": "claude",
+  "title": "Debug Obsidian bold formatting issue",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779784573832,
+  "updatedAt": 1779784802593,
+  "lastResponseAt": 1779784802593,
+  "sessionId": "4d909fd9-878b-42b3-8c94-d6a4d7a8106d",
+  "providerState": {
+    "providerSessionId": "4d909fd9-878b-42b3-8c94-d6a4d7a8106d"
+  },
+  "currentNote": "任务.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 44,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37632,
+    "contextWindow": 200000,
+    "contextTokens": 37676,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}
