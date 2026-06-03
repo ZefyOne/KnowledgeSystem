@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779512429553-78wkthvta",
+  "providerId": "claude",
+  "title": "Create knowledge system overview with chain links",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779512429554,
+  "updatedAt": 1779512493886,
+  "lastResponseAt": 1779512493886,
+  "sessionId": "e3eadcdb-777c-44af-bb3e-9db4165f4776",
+  "providerState": {
+    "providerSessionId": "e3eadcdb-777c-44af-bb3e-9db4165f4776"
+  },
+  "currentNote": "主页.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 141,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36608,
+    "contextWindow": 200000,
+    "contextTokens": 36749,
+    "percentage": 18
+  }
+}

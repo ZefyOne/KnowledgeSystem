@@ -4,20 +4,20 @@
   "title": "Find current working directory",
   "titleGenerationStatus": "success",
   "createdAt": 1778815873225,
-  "updatedAt": 1778818390783,
-  "lastResponseAt": 1778818390782,
+  "updatedAt": 1779162734196,
+  "lastResponseAt": 1779162734196,
   "sessionId": "bd20b0be-8f74-4ef6-8918-68c182c202b7",
   "providerState": {
     "providerSessionId": "bd20b0be-8f74-4ef6-8918-68c182c202b7"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 75,
+    "inputTokens": 724,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 25600,
+    "cacheReadInputTokens": 28928,
     "contextWindow": 200000,
-    "contextTokens": 25675,
-    "percentage": 13,
+    "contextTokens": 29652,
+    "percentage": 15,
     "contextWindowIsAuthoritative": true
   }
 }
