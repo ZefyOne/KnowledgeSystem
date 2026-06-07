@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780847963478-y053z0lmo",
+  "providerId": "claude",
+  "title": "Generate root file with double-linked summaries",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780847963478,
+  "updatedAt": 1780848048085,
+  "lastResponseAt": 1780847986735,
+  "sessionId": "213ba280-7bc1-4c9c-986a-1303aba48168",
+  "providerState": {
+    "providerSessionId": "213ba280-7bc1-4c9c-986a-1303aba48168"
+  },
+  "currentNote": "深层记忆/领域/领域.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 149,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21632,
+    "contextWindow": 1000000,
+    "contextTokens": 21781,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
